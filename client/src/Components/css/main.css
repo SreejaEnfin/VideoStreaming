@@ -438,6 +438,7 @@ body {
 
 .br-confernce-user-lists .br-user-wrapper .br-tools .br-icon {
   margin: 1px 5px;
+  cursor: pointer;
 }
 
 .br-confernce-user-lists .br-user-wrapper .br-overlay-wrapper {
@@ -502,7 +503,7 @@ body {
   display: inline-block;
   width: 30px;
   height: 30px;
-  background-image: url("../img/sprite-controls.png");
+  /* background-image: url("../img/sprite-controls.png"); */
   background-repeat: no-repeat;
 }
 
